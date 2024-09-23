@@ -12,7 +12,7 @@ class Dot extends StatelessWidget {
   Widget build(BuildContext context) {
     return DecoratedBox(
       decoration: BoxDecoration(
-        color: lit ? Colors.orange : Colors.grey.shade700,
+        color: lit ? Colors.yellow : Colors.grey.shade200,
         borderRadius: BorderRadius.circular(radius),
       ),
       child: const SizedBox(

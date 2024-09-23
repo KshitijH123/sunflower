@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:sunflower/sunflower_widget.dart';
 
-const int maxSeeds = 250;
+const int maxSeeds = 350;
 
 void main() {
   runApp(const Sunflower());
